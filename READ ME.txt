@@ -1,0 +1,33 @@
+Created with Visual Studio Code
+
+For Starting the Server:
+Go to the Server Directory: 
+- cd ChatApp
+- cd Server
+Start the Server:
+- npm start ( "start": "nodemon index.js" )
+
+Server outputs logs...
+
+For Starting the React App:
+Go to the client Directory:
+- cd ChatApp
+- cd Client
+Start the App:
+- npm start
+
+App is at:
+http://localhost:3000/
+
+
+Packages used:
+
+Server
+npm init
+npm install express nodemon socket.io cors
+
+client
+npx create-react-app .
+npm install socket.io-client
+npm install react-scroll-to-bottom
+
