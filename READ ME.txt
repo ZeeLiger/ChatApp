@@ -1,5 +1,7 @@
 Created with Visual Studio Code
 
+Needs NodeJS Installed
+
 For Starting the Server:
 Go to the Server Directory: 
 - cd ChatApp
